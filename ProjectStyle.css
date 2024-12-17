@@ -35,3 +35,11 @@ img {
   background-color: #f7fff7;
   color: #4dccc4;
 }
+h2 { 
+color: #f7fff7;
+font-size: 40px;
+  font-family: 'Brush Script MT', cursive;
+  letter-spacing: 3px;
+  word-spacing: 6px;
+  text-shadow: 2.7px 0.6px 0.6px #4dccc4;
+}
