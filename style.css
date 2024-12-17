@@ -10,11 +10,28 @@ text-decoration-line: overline underline;
   word-spacing: 10px;
   text-shadow: 5px 2px 2px #4dccc4;
 }
-h3:hover {
-  font-size: 72px;
-}
 img {
   width: 50%;
   border-radius: 50%;
   border: dashed 4px #4dccc4;
+}
+.topnav {
+  background-color: #4dccc4;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f7fff7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #f7fff7;
+  color: #178798;
+}
+.topnav a.active {
+  background-color: #f7fff7;
+  color: #4dccc4;
 }
